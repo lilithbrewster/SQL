@@ -1,4 +1,4 @@
--- Find the title of each folm
+-- Find the title of each film
 SELECT title
 FROM movies;
 
